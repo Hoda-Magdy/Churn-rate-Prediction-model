@@ -1,3 +1,3 @@
-D:/spring 24/Analysis lab/comp/cmake-build-debug/CMakeFiles/comp.dir
-D:/spring 24/Analysis lab/comp/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/spring 24/Analysis lab/comp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/spring 24/DD1 project/Churn-rate-Prediction-model/cmake-build-debug/CMakeFiles/comp.dir
+D:/spring 24/DD1 project/Churn-rate-Prediction-model/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/spring 24/DD1 project/Churn-rate-Prediction-model/cmake-build-debug/CMakeFiles/rebuild_cache.dir

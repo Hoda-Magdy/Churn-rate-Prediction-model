@@ -1,4 +1,4 @@
-# Install script for directory: D:/spring 24/Analysis lab/comp
+# Install script for directory: D:/spring 24/DD1 project/Churn-rate-Prediction-model
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/spring 24/Analysis lab/comp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/spring 24/DD1 project/Churn-rate-Prediction-model/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
